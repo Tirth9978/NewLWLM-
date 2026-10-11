@@ -1,0 +1,24 @@
+# LWLM — restructured & fixed (PyTorch / PyTorch Lightning)
+# Python >= 3.10 recommended
+
+# Core DL
+torch>=2.1
+torchvision>=0.16
+pytorch-lightning>=2.0,<2.6
+tensorboard>=2.14
+
+# Numerics / data
+numpy>=1.24,<3
+scipy>=1.10
+h5py>=3.8
+
+# DeepMIMO channel generator (reads the O1_3p5 .mat scenario files)
+DeepMIMOv3>=1.0
+
+# Plotting / progress
+matplotlib>=3.7
+tqdm>=4.65
+
+# Notebook kernel
+jupyterlab>=4.0
+ipykernel>=6.25

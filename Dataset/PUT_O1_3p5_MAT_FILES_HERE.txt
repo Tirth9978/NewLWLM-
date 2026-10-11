@@ -1,0 +1,5 @@
+DeepMIMO O1_3p5 scenario goes here.
+Extract the scenario so that either:
+  - Dataset/O1_3p5/*.mat   (scenario folder inside), or
+  - Dataset/*.mat          (loose .mat files)
+Download: https://deepmimo.net/scenarios/o1-scenario/
